@@ -4,6 +4,8 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+<!--[![Project Views](https://img.shields.io/badge/dynamic/json?color=green&label=Project%20Views&query=$.views&url=https://github.com/Mr-Alite/Customer-Churn-Prediction-Using-ML)](https://github.com/Mr-Alite/Customer-Churn-Prediction-Using-ML)-->
+
 -----------------------------------------------------------------------------------
 
 ## Table of Contents

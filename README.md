@@ -66,9 +66,9 @@
 cd customer-churn-prediction</code>
 </pre>
 
-<a href="https://Mr-Alite.github.io/repo-name/">
+<!--<a href="https://Mr-Alite.github.io/repo-name/">
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Project%20Views&query=views&url=https://api.github.com/repos/Mr-Alite/Customer-Churn-Prediction-Using-ML" alt="Project Views">
-</a>
+</a>-->
 
 </body>
 </html>
